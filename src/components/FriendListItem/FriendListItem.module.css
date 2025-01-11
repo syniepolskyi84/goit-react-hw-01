@@ -1,0 +1,19 @@
+.avatar {
+  width: 138px;
+  margin: 0 auto;
+}
+
+.name {
+font-size: 40px;
+color: black;
+margin-top: 17px;
+}
+.online {
+  color: green;
+  font-size: 24px;
+}
+
+.offline {
+  color: red;
+  font-size: 24px;
+}
